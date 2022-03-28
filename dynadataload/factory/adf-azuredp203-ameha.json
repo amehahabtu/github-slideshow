@@ -1,0 +1,9 @@
+{
+	"name": "adf-azuredp203-ameha",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "05612d63-e64f-4a66-88aa-24a0c0d27a79",
+		"tenantId": "70245591-20c1-46bc-85b7-1b39d2f3b5bf"
+	}
+}
