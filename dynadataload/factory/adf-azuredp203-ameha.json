@@ -1,13 +1,5 @@
 {
 	"name": "adf-azuredp203-ameha",
-	"properties": {
-		"globalParameters": {
-			"test": {
-				"type": "string",
-				"value": "test"
-			}
-		}
-	},
 	"location": "westus",
 	"identity": {
 		"type": "SystemAssigned",
